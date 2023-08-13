@@ -1,4 +1,6 @@
 def summ_func(a, b):
     return a + b
 
-git
+
+def sub_func(a, b):
+    return a - b
